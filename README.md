@@ -1,8 +1,7 @@
-# Film Cloud
+# Movies Cloud
 
 React application to browse your favorite Movies, TV shows, and actors.
 
-[Film Cloud](http://filmcloud.xyz)
 
 ## Getting Started
 
