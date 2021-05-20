@@ -21,7 +21,7 @@ const MainFooter = () => {
 
         <div className="main-footer-top-item">
           <h3 className="main-footer-top-item__title">portfolio:</h3>
-          <p><a href="www.abwtechnologies.com" target="_blank" rel="noopener noreferrer">www.abwtechnologies.com</a></p>
+          <p><a href="www.abwtechnologies.com" target="_blank" rel="noopener noreferrer">https://github.com/nadimxht/movie-cloud</a></p>
         </div>
 
         <div className="main-footer-top-item">
@@ -29,7 +29,7 @@ const MainFooter = () => {
           <p>985-551-3866</p>
         </div>
 
-        <p className="main-footer-top-copyright">Copyright &copy;2018<br /> Code and design by <a href="www.abwtechnologies.com" target="_blank" rel="noopener noreferrer">Alan Ayala</a></p>
+        <p className="main-footer-top-copyright">Copyright &copy;2018<br /> Code and design by <a href="https://github.com/nadimxht/movie-cloud" target="_blank" rel="noopener noreferrer">Nadim chihaoui</a></p>
 
       </section>
 
