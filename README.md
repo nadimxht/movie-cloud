@@ -54,11 +54,6 @@ Enjoy! :)
 
 * **Nadim chihaoui** - *Initial work* -
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * [WOW.js](https://mynameismatthieu.com/WOW/) - TScrolling animation
@@ -66,13 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Blizzard](https://www.blizzard.com) - Loader animation
 
 
-Viewport
-Window
-×
-×
-×
-Viewport
-Window
-×
-×
-×
+
